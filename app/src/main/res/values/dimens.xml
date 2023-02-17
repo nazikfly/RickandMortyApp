@@ -1,0 +1,15 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="page_8dp">8dp</dimen>
+    <dimen name="page_32dp">32dp</dimen>
+    <dimen name="page_16dp">16dp</dimen>
+    <dimen name="page_18dp">18dp</dimen>
+    <dimen name="page_12dp">12dp</dimen>
+    <dimen name="size_77dp">77dp</dimen>
+    <dimen name="page_24dp">24dp</dimen>
+    <dimen name="txt_size24sp">24sp</dimen>
+    <dimen name="txt_size18sp">24sp</dimen>
+    <dimen name="txt_size16sp">24sp</dimen>
+    <dimen name="txt_size8sp">24sp</dimen>
+    <dimen name="txt_size14sp">24sp</dimen>
+</resources>

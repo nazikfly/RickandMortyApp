@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/RickandMortyApp/app/src/main/res/drawable-v24/ic_icon_bs1.xml" value="0.159" />
+        <entry key="..\:/Users/HP/RickandMortyApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.125" />
+        <entry key="..\:/Users/HP/RickandMortyApp/app/src/main/res/drawable/background_radio.xml" value="0.159" />
+        <entry key="..\:/Users/HP/RickandMortyApp/app/src/main/res/drawable/background_splash_screen.xml" value="0.175" />
+        <entry key="..\:/Users/HP/RickandMortyApp/app/src/main/res/drawable/cursor.xml" value="0.1" />
+        <entry key="..\:/Users/HP/RickandMortyApp/app/src/main/res/drawable/ei_no_internet.xml" value="0.159" />
+        <entry key="..\:/Users/HP/RickandMortyApp/app/src/main/res/drawable/ic_icon.xml" value="0.1" />
+        <entry key="..\:/Users/HP/RickandMortyApp/app/src/main/res/drawable/ic_icon_.xml" value="0.1" />
+        <entry key="..\:/Users/HP/RickandMortyApp/app/src/main/res/drawable/ic_icon_bs.xml" value="0.184" />
+        <entry key="..\:/Users/HP/RickandMortyApp/app/src/main/res/drawable/ic_icon_filter.xml" value="0.1" />
+        <entry key="..\:/Users/HP/RickandMortyApp/app/src/main/res/drawable/ic_icon_red.xml" value="0.1" />
+        <entry key="..\:/Users/HP/RickandMortyApp/app/src/main/res/drawable/ic_icon_search.xml" value="0.125" />
+        <entry key="..\:/Users/HP/RickandMortyApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/HP/RickandMortyApp/app/src/main/res/drawable/playlist.xml" value="0.159" />
+        <entry key="..\:/Users/HP/RickandMortyApp/app/src/main/res/drawable/radiobutton_female.xml" value="0.159" />
+        <entry key="..\:/Users/HP/RickandMortyApp/app/src/main/res/drawable/radiobutton_genderless.xml" value="0.159" />
+        <entry key="..\:/Users/HP/RickandMortyApp/app/src/main/res/drawable/radiobutton_male.xml" value="0.159" />
+        <entry key="..\:/Users/HP/RickandMortyApp/app/src/main/res/drawable/radiobutton_unknown.xml" value="0.159" />
+        <entry key="..\:/Users/HP/RickandMortyApp/app/src/main/res/drawable/search_bg.xml" value="0.1" />
+        <entry key="..\:/Users/HP/RickandMortyApp/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/HP/RickandMortyApp/app/src/main/res/layout/fragment_detail.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/HP/RickandMortyApp/app/src/main/res/layout/fragment_filter.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/HP/RickandMortyApp/app/src/main/res/layout/fragment_list.xml" value="0.22" />
+        <entry key="..\:/Users/HP/RickandMortyApp/app/src/main/res/layout/item_list.xml" value="0.22" />
+        <entry key="..\:/Users/HP/RickandMortyApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/HP/RickandMortyApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

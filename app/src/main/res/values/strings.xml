@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Rick and Morty App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Title">Title</string>
+    <string name="Alive">Alive</string>
+    <string name="Dead">Dead</string>
+    <string name="Unknown">Unknown</string>
+    <string name="Des">Des</string>
+    <string name="Playlist">Playlist</string>
+    <string name="Title_filter">Title_filter</string>
+    <string name="Gender">Gender</string>
+    <string name="Status">Status</string>
+    <string name="Female">Female</string>
+    <string name="Male">Male</string>
+    <string name="Genderless">b</string>
+    <string name="Apply">Apply</string>
+</resources>
